@@ -5,3 +5,4 @@
 | Nama Software | Jenis | Fungsi |
 |---------------|-------|--------|
 | Wappalyzer  | Add On Google | Buat lihat teknologi apa yg dipake sebuah website |
+
