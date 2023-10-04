@@ -5,4 +5,5 @@
 | Nama Software | Jenis | Fungsi |
 |---------------|-------|--------|
 | Wappalyzer  | Add On Google | Buat lihat teknologi apa yg dipake sebuah website |
+| GoFullPage | Add On Google | Untuk screenshot full page |
 
