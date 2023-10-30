@@ -11,4 +11,4 @@
 
 | Website | Jenis | Fungsi |
 |---------------|-------|--------|
-| https://colorhunt.co/ | Color Palette | Referensi color palette |
+| https://colorhunt.co/ | Color Palette | Referensi color palette, color code bisa di-copy |
